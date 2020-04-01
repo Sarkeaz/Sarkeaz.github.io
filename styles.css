@@ -137,7 +137,17 @@ body {
   display: inline-block;
   vertical-align: top;
   padding-left: 1.4rem;
-  
+}
+
+.about-text p {
+  line-height: 1.7rem;
+  font-size: 1.1rem;
+}
+
+.about-img img{
+  width: 775px;
+  height: 650px;
+  border-radius: 9px;
 }
 
 a {
@@ -159,3 +169,4 @@ h4 {
   color: #000;
   font-weight: bold;
 }
+f
